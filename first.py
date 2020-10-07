@@ -12,3 +12,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> x*y*z
 48
 >>> 
+z**5
