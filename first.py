@@ -4,4 +4,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> y=3
 >>> x+y
 5
+>>> x*y
+6
 >>> 
