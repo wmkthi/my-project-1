@@ -7,3 +7,8 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> x*y
 6
 >>> 
+
+>>> z=8
+>>> x*y*z
+48
+>>> 
